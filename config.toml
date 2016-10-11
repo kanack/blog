@@ -1,0 +1,19 @@
+theme = "blackburn"
+languageCode = "en-us"
+title = "kanack"
+baseurl = "https://kanack.github.io/blog/"
+canonifyurls = true
+author = "kanack"
+copyright = "&copy; All rights reserved."
+publishdir = "public"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+
+[social]
+  github = "kanack"
