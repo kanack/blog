@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kanack</title>
-    <link>https://kanack.github.io/blog/index.xml</link>
-    <description>Recent content on kanack</description>
+    <title>Post-rsses on kanack</title>
+    <link>https://kanack.github.io/blog/post/index.xml</link>
+    <description>Recent content in Post-rsses on kanack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; All rights reserved.</copyright>
     <lastBuildDate>Tue, 11 Oct 2016 13:48:23 +0900</lastBuildDate>
-    <atom:link href="https://kanack.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kanack.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hugo</title>
